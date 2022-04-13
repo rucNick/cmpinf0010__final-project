@@ -1,5 +1,5 @@
 # cmpinf0010__final-project
-## Team Name:1+1>2__
+## Team Name:1+1>2
 ## Team members 
 Nick Cao:ruc36@pitt.edu 
 <br>
