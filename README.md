@@ -11,7 +11,7 @@ Junshang jia juj22@pitt.edu
 <br>
 <br>Waste Recovery Locations data: https://data.wprdc.org/datastore/dump/51f0c4f3-0ddd-4073-8f39-ad19d7528575
 <br>
-<br>Population of Pittsburgh: https://data.wprdc.org/dataset/95af9f2c-61c8-446b-ae72-852e195684f3/resource/fb2cb765-458c-4deb-8252-0a18d7ce9a78/download/c
+<br>Population of Pittsburgh: https://data.wprdc.org/dataset/95af9f2c-61c8-446b-ae72-852e195684f3/resource/a8414ed5-c50f-417e-bb67-82b734660da6/download/
 
 ## Overview
 This Repo is to analyize what is the best neighborhood in Pittsburgh?
