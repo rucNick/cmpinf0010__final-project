@@ -1,9 +1,9 @@
 # Team Name:1+1>2: Final Project
 ## Team members 
-Nick Cao:ruc36@pitt.edu 
+Nick Cao:ruc36@pitt.edu ----NickCao_Persional.ipynb
 <br>
 <br>
-Junshang jia juj22@pitt.edu
+Junshang jia juj22@pitt.edu ---Junshang_Notebook
 ## Dataset links:  
 30-days police Blotter data: https://data.wprdc.org/datastore/dump/1797ead8-8262-41cc-9099-cbc8a161924b
 <br>
