@@ -14,4 +14,5 @@ Junshang jia juj22@pitt.edu
 <br>Population of Pittsburgh: https://data.wprdc.org/dataset/95af9f2c-61c8-446b-ae72-852e195684f3/resource/a8414ed5-c50f-417e-bb67-82b734660da6/download/
 
 ## Overview
-This Repo is to analyize what is the best neighborhood in Pittsburgh?
+This Repo is to analyize what is the best neighborhood in Pittsburgh.
+Nick Cao anaysized the blotter dataset and popultaion dataset, and Junshang jia anaysized the playground dataset and waste recovery location dataset.
